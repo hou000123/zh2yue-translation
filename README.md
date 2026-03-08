@@ -22,3 +22,9 @@ def translate_to_cantonese(text):
 
 print(translate_to_cantonese("今天天气很好"))  # 输出: "今日天氣好好"
 ```
+
+
+
+# Hub Model Page
+
+https://huggingface.co/hou000123/zh2yue-translation
