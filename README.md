@@ -1,5 +1,7 @@
 # zh2yue-translation
-Translation Chinese To yue
+Translation Chinese To yue(Cantonese)
+
+中文翻譯粵語
 
 
 # Quick Start
